@@ -22,24 +22,24 @@
 
 |No.|Image|Explain|
 |:-:|:---:|:------|
-|1|![DHT11](./images/setting/1.jpeg)|적설현상, 결빙현상 및 주변 기온 측정|
-|2|![Matrix](./images/setting/2.jpeg)|온도 측정기에 의해 얻은 상황에 따라 현재 상태 표현|
+|1|![DHT11](./images/setting/1.jpeg)|적설, 결빙현상 및 주변 기온 측정|
+|2|![Matrix](./images/setting/2.jpeg)|온도 측정 상황에 따라 현재 상태 표현|
 |3|![DC](./images/setting/3.jpeg)|제설제를 넓게 뿌릴 수 있도록 팬을 부착|
 |4|![Sv](./images/setting/4.jpeg)|제설제 양 조절|
 |5|![Sonic](./images/setting/5.jpeg)|자동차의 속도를 측정|
 |6|![LCD](./images/setting/6.jpeg)|자동차의 속도를 표시|
-|7|![LED](./images/activate/5.jpeg)|속도에 따라 신호등 색 변경|
+|7|![LED](./images/activate/7.jpeg)|속도에 따라 신호등 색 변경|
 |8|![Buz](./images/setting/8.jpeg)|과속시 부저음|
 
 ## Activate
 
 |No.|Image|Explain|
-|:-:|:---:|:------|
+|:-:|:---:|:-----:|
 |1|*No image*|*보고서 내 표 참고*|
-|2|![ice1](./images/activate/2_1.png) ![ice2](./images/activate/2_2.png)|좌 블랙아이스 : 경고, 우 제설장치 : 가동 중|
-|3|![DC](./images/activate/3.jpeg)|결빙상태시 DC모터가 제설제를 살포|
-|4|![Sv](./images/activate/4.jpeg)|결빙상태시 서보모터를 작동해 닫혀있던 입구를 열어 제설제 살포|
-|5-6|![LCD](./images/activate/5.jpeg)|초음파 센서로부터 데이터를 받아 LCD에 출력됨|
+|2|![ice1](./images/activate/2_1.png) ![ice2](./images/activate/2_2.png)|위: 블랙아이스 경고, 아래: 제설장치 가동|
+|3|![DC](./images/activate/3.jpeg)|결빙상태시 DC모터 제설제 살포|
+|4|![Sv](./images/activate/4.jpeg)|결빙상태시 서보모터 제설제 살포|
+|5-6|![LCD](./images/activate/5.jpeg)|초음파 센서 데이터를 받아 LCD에 출력|
 |7|![LED](./images/activate/7.jpeg)|속도 >= 80: 적색, 속도 <= 40: 녹색, 40 < 속도 < 80: 황색|
 |8|*No image*|*LED가 적색일 때 경고음*|
 
